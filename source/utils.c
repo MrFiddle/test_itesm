@@ -27,4 +27,9 @@ int main(void)
     int number1;
     int number2;
     int result;
+
+    number1 = 5;
+    number2 = 4;
+
+    result = sum(number1, number2);    
 }
